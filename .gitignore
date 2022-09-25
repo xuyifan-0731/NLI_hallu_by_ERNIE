@@ -1,0 +1,13 @@
+*.un~
+*~
+*.pyc
+*.swp
+*.swn
+*.swo
+dist/
+paddle_ernie.egg-info/
+data/
+cpt/
+log/
+model/
+infmodel/
